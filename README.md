@@ -2,6 +2,10 @@
 
 > Trabalho com Banco de dados PostgreSQL
 
+## Linguagens utilizadas 
+
+- JAVA
+- POSTGRESQL 
 ## Objetivos
 
 O projeto consiste na criação de um banco de dados para uma concessionária, que armazena informações sobre funcionários, clientes, carros, vendas e propostas. Foram realizadas inserções de dados em todas as tabelas e consultas envolvendo junções.
